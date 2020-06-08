@@ -1,0 +1,8 @@
+com\qa\pages\LoginPage.class
+com\qa\pages\CompaniesPage.class
+com\qa\testcases\TC_03_Tasks.class
+com\qa\testcases\TC_02_Companies.class
+com\qa\pages\DocumentsPage.class
+com\qa\testcases\TC_04_Documents.class
+com\qa\pages\TasksPage.class
+com\qa\testcases\TC_01_Login.class
